@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
 import Layout from './components/Layout';
-import Home from './pages/Home';
-import Places from './pages/Places';
-import Commute from './pages/Commute';
-import Food from './pages/Food';
-import Hotels from './pages/Hotels';
-import Weather from './pages/Weather';
-import Reach from './pages/Reach';
+import Home from './Pages/Home';
+import Places from './Pages/Places';
+import Commute from './Pages/Commute';
+import Food from './Pages/Food';
+import Hotels from './Pages/Hotels';
+import Weather from './Pages/Weather';
+import Reach from './Pages/Reach';
 import Gallery from './Pages/Gallery';
 import History from './Pages/History';
 
