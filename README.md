@@ -20,7 +20,7 @@ Explore Chandigarh : Your Gateway to Vibrant Experiences
 ## 📸 Live Preview
 
 
-[🔗 Live Site](#) *()*
+[🔗 Live Site](#) *(https://discover-chandigarh.vercel.app/)*
 
 ---
 
