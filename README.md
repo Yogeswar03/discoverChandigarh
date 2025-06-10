@@ -19,9 +19,8 @@ Explore Chandigarh : Your Gateway to Vibrant Experiences
 
 ## 📸 Live Preview
 
-> You can host this project on platforms like Vercel, Netlify, or GitHub Pages and link your deployed site here.
 
-[🔗 Live Site](#) *(Add your deployed link here)*
+[🔗 Live Site](#) *()*
 
 ---
 
